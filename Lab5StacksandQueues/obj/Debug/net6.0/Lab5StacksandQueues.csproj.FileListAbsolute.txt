@@ -1,0 +1,15 @@
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Lab5StacksandQueues/bin/Debug/net6.0/Lab5StacksandQueues
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Lab5StacksandQueues/bin/Debug/net6.0/Lab5StacksandQueues.deps.json
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Lab5StacksandQueues/bin/Debug/net6.0/Lab5StacksandQueues.runtimeconfig.json
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Lab5StacksandQueues/bin/Debug/net6.0/Lab5StacksandQueues.dll
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Lab5StacksandQueues/bin/Debug/net6.0/ref/Lab5StacksandQueues.dll
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Lab5StacksandQueues/bin/Debug/net6.0/Lab5StacksandQueues.pdb
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Lab5StacksandQueues/obj/Debug/net6.0/Lab5StacksandQueues.csproj.AssemblyReference.cache
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Lab5StacksandQueues/obj/Debug/net6.0/Lab5StacksandQueues.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Lab5StacksandQueues/obj/Debug/net6.0/Lab5StacksandQueues.AssemblyInfoInputs.cache
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Lab5StacksandQueues/obj/Debug/net6.0/Lab5StacksandQueues.AssemblyInfo.cs
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Lab5StacksandQueues/obj/Debug/net6.0/Lab5StacksandQueues.csproj.CoreCompileInputs.cache
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Lab5StacksandQueues/obj/Debug/net6.0/Lab5StacksandQueues.dll
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Lab5StacksandQueues/obj/Debug/net6.0/ref/Lab5StacksandQueues.dll
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Lab5StacksandQueues/obj/Debug/net6.0/Lab5StacksandQueues.pdb
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Lab5StacksandQueues/obj/Debug/net6.0/Lab5StacksandQueues.genruntimeconfig.cache

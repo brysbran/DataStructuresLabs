@@ -1,0 +1,15 @@
+/Users/brysonbrandon/Desktop/Compare Triplets/obj/Debug/net6.0/Compare Triplets.csproj.AssemblyReference.cache
+/Users/brysonbrandon/Desktop/Compare Triplets/obj/Debug/net6.0/Compare Triplets.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brysonbrandon/Desktop/Compare Triplets/obj/Debug/net6.0/Compare Triplets.AssemblyInfoInputs.cache
+/Users/brysonbrandon/Desktop/Compare Triplets/obj/Debug/net6.0/Compare Triplets.AssemblyInfo.cs
+/Users/brysonbrandon/Desktop/Compare Triplets/obj/Debug/net6.0/Compare Triplets.csproj.CoreCompileInputs.cache
+/Users/brysonbrandon/Desktop/Compare Triplets/bin/Debug/net6.0/Compare Triplets
+/Users/brysonbrandon/Desktop/Compare Triplets/bin/Debug/net6.0/Compare Triplets.deps.json
+/Users/brysonbrandon/Desktop/Compare Triplets/bin/Debug/net6.0/Compare Triplets.runtimeconfig.json
+/Users/brysonbrandon/Desktop/Compare Triplets/bin/Debug/net6.0/Compare Triplets.dll
+/Users/brysonbrandon/Desktop/Compare Triplets/bin/Debug/net6.0/ref/Compare Triplets.dll
+/Users/brysonbrandon/Desktop/Compare Triplets/bin/Debug/net6.0/Compare Triplets.pdb
+/Users/brysonbrandon/Desktop/Compare Triplets/obj/Debug/net6.0/Compare Triplets.dll
+/Users/brysonbrandon/Desktop/Compare Triplets/obj/Debug/net6.0/ref/Compare Triplets.dll
+/Users/brysonbrandon/Desktop/Compare Triplets/obj/Debug/net6.0/Compare Triplets.pdb
+/Users/brysonbrandon/Desktop/Compare Triplets/obj/Debug/net6.0/Compare Triplets.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Lab11 - Recursion/obj/Debug/net6.0/Lab11 - Recursion.csproj.AssemblyReference.cache
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Lab11 - Recursion/obj/Debug/net6.0/Lab11 - Recursion.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Lab11 - Recursion/obj/Debug/net6.0/Lab11 - Recursion.AssemblyInfoInputs.cache
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Lab11 - Recursion/obj/Debug/net6.0/Lab11 - Recursion.AssemblyInfo.cs
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Lab11 - Recursion/obj/Debug/net6.0/Lab11 - Recursion.csproj.CoreCompileInputs.cache
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Lab11 - Recursion/bin/Debug/net6.0/Lab11 - Recursion
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Lab11 - Recursion/bin/Debug/net6.0/Lab11 - Recursion.deps.json
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Lab11 - Recursion/bin/Debug/net6.0/Lab11 - Recursion.runtimeconfig.json
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Lab11 - Recursion/bin/Debug/net6.0/Lab11 - Recursion.dll
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Lab11 - Recursion/bin/Debug/net6.0/ref/Lab11 - Recursion.dll
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Lab11 - Recursion/bin/Debug/net6.0/Lab11 - Recursion.pdb
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Lab11 - Recursion/obj/Debug/net6.0/Lab11 - Recursion.dll
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Lab11 - Recursion/obj/Debug/net6.0/ref/Lab11 - Recursion.dll
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Lab11 - Recursion/obj/Debug/net6.0/Lab11 - Recursion.pdb
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Lab11 - Recursion/obj/Debug/net6.0/Lab11 - Recursion.genruntimeconfig.cache

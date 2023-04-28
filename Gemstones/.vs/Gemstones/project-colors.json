@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aaa192ae-0249-453f-a1e7-1a7adad5c168": {
+      "ProjectGuid": "aaa192ae-0249-453f-a1e7-1a7adad5c168",
+      "DisplayName": "Gemstones",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

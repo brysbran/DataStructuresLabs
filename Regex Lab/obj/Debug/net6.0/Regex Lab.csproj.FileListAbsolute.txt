@@ -1,0 +1,60 @@
+C:/Users/brandonbc/OneDrive - East Tennessee State University/Documents/Regex Lab/bin/Debug/net6.0/Regex Lab.exe
+C:/Users/brandonbc/OneDrive - East Tennessee State University/Documents/Regex Lab/bin/Debug/net6.0/Regex Lab.deps.json
+C:/Users/brandonbc/OneDrive - East Tennessee State University/Documents/Regex Lab/bin/Debug/net6.0/Regex Lab.runtimeconfig.json
+C:/Users/brandonbc/OneDrive - East Tennessee State University/Documents/Regex Lab/bin/Debug/net6.0/Regex Lab.dll
+C:/Users/brandonbc/OneDrive - East Tennessee State University/Documents/Regex Lab/bin/Debug/net6.0/ref/Regex Lab.dll
+C:/Users/brandonbc/OneDrive - East Tennessee State University/Documents/Regex Lab/bin/Debug/net6.0/Regex Lab.pdb
+C:/Users/brandonbc/OneDrive - East Tennessee State University/Documents/Regex Lab/obj/Debug/net6.0/Regex Lab.csproj.AssemblyReference.cache
+C:/Users/brandonbc/OneDrive - East Tennessee State University/Documents/Regex Lab/obj/Debug/net6.0/Regex Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/brandonbc/OneDrive - East Tennessee State University/Documents/Regex Lab/obj/Debug/net6.0/Regex Lab.AssemblyInfoInputs.cache
+C:/Users/brandonbc/OneDrive - East Tennessee State University/Documents/Regex Lab/obj/Debug/net6.0/Regex Lab.AssemblyInfo.cs
+C:/Users/brandonbc/OneDrive - East Tennessee State University/Documents/Regex Lab/obj/Debug/net6.0/Regex Lab.csproj.CoreCompileInputs.cache
+C:/Users/brandonbc/OneDrive - East Tennessee State University/Documents/Regex Lab/obj/Debug/net6.0/Regex Lab.dll
+C:/Users/brandonbc/OneDrive - East Tennessee State University/Documents/Regex Lab/obj/Debug/net6.0/ref/Regex Lab.dll
+C:/Users/brandonbc/OneDrive - East Tennessee State University/Documents/Regex Lab/obj/Debug/net6.0/Regex Lab.pdb
+C:/Users/brandonbc/OneDrive - East Tennessee State University/Documents/Regex Lab/obj/Debug/net6.0/Regex Lab.genruntimeconfig.cache
+E:/DataStrcutures/Regex Lab/bin/Debug/net6.0/Regex Lab.exe
+E:/DataStrcutures/Regex Lab/bin/Debug/net6.0/Regex Lab.deps.json
+E:/DataStrcutures/Regex Lab/bin/Debug/net6.0/Regex Lab.runtimeconfig.json
+E:/DataStrcutures/Regex Lab/bin/Debug/net6.0/Regex Lab.dll
+E:/DataStrcutures/Regex Lab/bin/Debug/net6.0/ref/Regex Lab.dll
+E:/DataStrcutures/Regex Lab/bin/Debug/net6.0/Regex Lab.pdb
+E:/DataStrcutures/Regex Lab/obj/Debug/net6.0/Regex Lab.csproj.AssemblyReference.cache
+E:/DataStrcutures/Regex Lab/obj/Debug/net6.0/Regex Lab.GeneratedMSBuildEditorConfig.editorconfig
+E:/DataStrcutures/Regex Lab/obj/Debug/net6.0/Regex Lab.AssemblyInfoInputs.cache
+E:/DataStrcutures/Regex Lab/obj/Debug/net6.0/Regex Lab.AssemblyInfo.cs
+E:/DataStrcutures/Regex Lab/obj/Debug/net6.0/Regex Lab.csproj.CoreCompileInputs.cache
+E:/DataStrcutures/Regex Lab/obj/Debug/net6.0/Regex Lab.dll
+E:/DataStrcutures/Regex Lab/obj/Debug/net6.0/ref/Regex Lab.dll
+E:/DataStrcutures/Regex Lab/obj/Debug/net6.0/Regex Lab.pdb
+E:/DataStrcutures/Regex Lab/obj/Debug/net6.0/Regex Lab.genruntimeconfig.cache
+F:/ETSU_Spring_22/DataStructures/Labs/Regex Lab/bin/Debug/net6.0/Regex Lab.exe
+F:/ETSU_Spring_22/DataStructures/Labs/Regex Lab/bin/Debug/net6.0/Regex Lab.deps.json
+F:/ETSU_Spring_22/DataStructures/Labs/Regex Lab/bin/Debug/net6.0/Regex Lab.runtimeconfig.json
+F:/ETSU_Spring_22/DataStructures/Labs/Regex Lab/bin/Debug/net6.0/Regex Lab.dll
+F:/ETSU_Spring_22/DataStructures/Labs/Regex Lab/bin/Debug/net6.0/Regex Lab.pdb
+F:/ETSU_Spring_22/DataStructures/Labs/Regex Lab/obj/Debug/net6.0/Regex Lab.csproj.AssemblyReference.cache
+F:/ETSU_Spring_22/DataStructures/Labs/Regex Lab/obj/Debug/net6.0/Regex Lab.GeneratedMSBuildEditorConfig.editorconfig
+F:/ETSU_Spring_22/DataStructures/Labs/Regex Lab/obj/Debug/net6.0/Regex Lab.AssemblyInfoInputs.cache
+F:/ETSU_Spring_22/DataStructures/Labs/Regex Lab/obj/Debug/net6.0/Regex Lab.AssemblyInfo.cs
+F:/ETSU_Spring_22/DataStructures/Labs/Regex Lab/obj/Debug/net6.0/Regex Lab.csproj.CoreCompileInputs.cache
+F:/ETSU_Spring_22/DataStructures/Labs/Regex Lab/obj/Debug/net6.0/Regex Lab.dll
+F:/ETSU_Spring_22/DataStructures/Labs/Regex Lab/obj/Debug/net6.0/refint/Regex Lab.dll
+F:/ETSU_Spring_22/DataStructures/Labs/Regex Lab/obj/Debug/net6.0/Regex Lab.pdb
+F:/ETSU_Spring_22/DataStructures/Labs/Regex Lab/obj/Debug/net6.0/Regex Lab.genruntimeconfig.cache
+F:/ETSU_Spring_22/DataStructures/Labs/Regex Lab/obj/Debug/net6.0/ref/Regex Lab.dll
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Regex Lab/bin/Debug/net6.0/Regex Lab
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Regex Lab/bin/Debug/net6.0/Regex Lab.deps.json
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Regex Lab/bin/Debug/net6.0/Regex Lab.runtimeconfig.json
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Regex Lab/bin/Debug/net6.0/Regex Lab.dll
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Regex Lab/bin/Debug/net6.0/ref/Regex Lab.dll
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Regex Lab/bin/Debug/net6.0/Regex Lab.pdb
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Regex Lab/obj/Debug/net6.0/Regex Lab.csproj.AssemblyReference.cache
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Regex Lab/obj/Debug/net6.0/Regex Lab.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Regex Lab/obj/Debug/net6.0/Regex Lab.AssemblyInfoInputs.cache
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Regex Lab/obj/Debug/net6.0/Regex Lab.AssemblyInfo.cs
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Regex Lab/obj/Debug/net6.0/Regex Lab.csproj.CoreCompileInputs.cache
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Regex Lab/obj/Debug/net6.0/Regex Lab.dll
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Regex Lab/obj/Debug/net6.0/ref/Regex Lab.dll
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Regex Lab/obj/Debug/net6.0/Regex Lab.pdb
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/Regex Lab/obj/Debug/net6.0/Regex Lab.genruntimeconfig.cache

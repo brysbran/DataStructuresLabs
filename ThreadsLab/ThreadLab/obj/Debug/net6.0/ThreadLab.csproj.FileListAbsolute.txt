@@ -1,0 +1,15 @@
+E:\ETSU_Spring_22\DataStructures\Labs\ThreadsLab\ThreadLab\bin\Debug\net6.0\ThreadLab.exe
+E:\ETSU_Spring_22\DataStructures\Labs\ThreadsLab\ThreadLab\bin\Debug\net6.0\ThreadLab.deps.json
+E:\ETSU_Spring_22\DataStructures\Labs\ThreadsLab\ThreadLab\bin\Debug\net6.0\ThreadLab.runtimeconfig.json
+E:\ETSU_Spring_22\DataStructures\Labs\ThreadsLab\ThreadLab\bin\Debug\net6.0\ThreadLab.dll
+E:\ETSU_Spring_22\DataStructures\Labs\ThreadsLab\ThreadLab\bin\Debug\net6.0\ref\ThreadLab.dll
+E:\ETSU_Spring_22\DataStructures\Labs\ThreadsLab\ThreadLab\bin\Debug\net6.0\ThreadLab.pdb
+E:\ETSU_Spring_22\DataStructures\Labs\ThreadsLab\ThreadLab\obj\Debug\net6.0\ThreadLab.csproj.AssemblyReference.cache
+E:\ETSU_Spring_22\DataStructures\Labs\ThreadsLab\ThreadLab\obj\Debug\net6.0\ThreadLab.GeneratedMSBuildEditorConfig.editorconfig
+E:\ETSU_Spring_22\DataStructures\Labs\ThreadsLab\ThreadLab\obj\Debug\net6.0\ThreadLab.AssemblyInfoInputs.cache
+E:\ETSU_Spring_22\DataStructures\Labs\ThreadsLab\ThreadLab\obj\Debug\net6.0\ThreadLab.AssemblyInfo.cs
+E:\ETSU_Spring_22\DataStructures\Labs\ThreadsLab\ThreadLab\obj\Debug\net6.0\ThreadLab.csproj.CoreCompileInputs.cache
+E:\ETSU_Spring_22\DataStructures\Labs\ThreadsLab\ThreadLab\obj\Debug\net6.0\ThreadLab.dll
+E:\ETSU_Spring_22\DataStructures\Labs\ThreadsLab\ThreadLab\obj\Debug\net6.0\ref\ThreadLab.dll
+E:\ETSU_Spring_22\DataStructures\Labs\ThreadsLab\ThreadLab\obj\Debug\net6.0\ThreadLab.pdb
+E:\ETSU_Spring_22\DataStructures\Labs\ThreadsLab\ThreadLab\obj\Debug\net6.0\ThreadLab.genruntimeconfig.cache

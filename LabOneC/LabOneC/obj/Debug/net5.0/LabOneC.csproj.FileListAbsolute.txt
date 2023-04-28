@@ -1,0 +1,16 @@
+C:\Users\brandonbc\Desktop\LabOneC\LabOneC\bin\Debug\net5.0\LabOneC.exe
+C:\Users\brandonbc\Desktop\LabOneC\LabOneC\bin\Debug\net5.0\LabOneC.deps.json
+C:\Users\brandonbc\Desktop\LabOneC\LabOneC\bin\Debug\net5.0\LabOneC.runtimeconfig.json
+C:\Users\brandonbc\Desktop\LabOneC\LabOneC\bin\Debug\net5.0\LabOneC.runtimeconfig.dev.json
+C:\Users\brandonbc\Desktop\LabOneC\LabOneC\bin\Debug\net5.0\LabOneC.dll
+C:\Users\brandonbc\Desktop\LabOneC\LabOneC\bin\Debug\net5.0\ref\LabOneC.dll
+C:\Users\brandonbc\Desktop\LabOneC\LabOneC\bin\Debug\net5.0\LabOneC.pdb
+C:\Users\brandonbc\Desktop\LabOneC\LabOneC\obj\Debug\net5.0\LabOneC.csproj.AssemblyReference.cache
+C:\Users\brandonbc\Desktop\LabOneC\LabOneC\obj\Debug\net5.0\LabOneC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brandonbc\Desktop\LabOneC\LabOneC\obj\Debug\net5.0\LabOneC.AssemblyInfoInputs.cache
+C:\Users\brandonbc\Desktop\LabOneC\LabOneC\obj\Debug\net5.0\LabOneC.AssemblyInfo.cs
+C:\Users\brandonbc\Desktop\LabOneC\LabOneC\obj\Debug\net5.0\LabOneC.csproj.CoreCompileInputs.cache
+C:\Users\brandonbc\Desktop\LabOneC\LabOneC\obj\Debug\net5.0\LabOneC.dll
+C:\Users\brandonbc\Desktop\LabOneC\LabOneC\obj\Debug\net5.0\ref\LabOneC.dll
+C:\Users\brandonbc\Desktop\LabOneC\LabOneC\obj\Debug\net5.0\LabOneC.pdb
+C:\Users\brandonbc\Desktop\LabOneC\LabOneC\obj\Debug\net5.0\LabOneC.genruntimeconfig.cache

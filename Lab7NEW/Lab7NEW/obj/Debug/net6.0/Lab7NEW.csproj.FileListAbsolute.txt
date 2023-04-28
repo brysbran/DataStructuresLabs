@@ -1,0 +1,15 @@
+C:\Users\brandonbc\source\repos\Lab7NEW\Lab7NEW\obj\Debug\net6.0\Lab7NEW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brandonbc\source\repos\Lab7NEW\Lab7NEW\obj\Debug\net6.0\Lab7NEW.AssemblyInfoInputs.cache
+C:\Users\brandonbc\source\repos\Lab7NEW\Lab7NEW\obj\Debug\net6.0\Lab7NEW.AssemblyInfo.cs
+C:\Users\brandonbc\source\repos\Lab7NEW\Lab7NEW\obj\Debug\net6.0\Lab7NEW.csproj.CoreCompileInputs.cache
+C:\Users\brandonbc\source\repos\Lab7NEW\Lab7NEW\bin\Debug\net6.0\Lab7NEW.exe
+C:\Users\brandonbc\source\repos\Lab7NEW\Lab7NEW\bin\Debug\net6.0\Lab7NEW.deps.json
+C:\Users\brandonbc\source\repos\Lab7NEW\Lab7NEW\bin\Debug\net6.0\Lab7NEW.runtimeconfig.json
+C:\Users\brandonbc\source\repos\Lab7NEW\Lab7NEW\bin\Debug\net6.0\Lab7NEW.dll
+C:\Users\brandonbc\source\repos\Lab7NEW\Lab7NEW\bin\Debug\net6.0\ref\Lab7NEW.dll
+C:\Users\brandonbc\source\repos\Lab7NEW\Lab7NEW\bin\Debug\net6.0\Lab7NEW.pdb
+C:\Users\brandonbc\source\repos\Lab7NEW\Lab7NEW\obj\Debug\net6.0\Lab7NEW.dll
+C:\Users\brandonbc\source\repos\Lab7NEW\Lab7NEW\obj\Debug\net6.0\ref\Lab7NEW.dll
+C:\Users\brandonbc\source\repos\Lab7NEW\Lab7NEW\obj\Debug\net6.0\Lab7NEW.pdb
+C:\Users\brandonbc\source\repos\Lab7NEW\Lab7NEW\obj\Debug\net6.0\Lab7NEW.genruntimeconfig.cache
+C:\Users\brandonbc\source\repos\Lab7NEW\Lab7NEW\obj\Debug\net6.0\Lab7NEW.csproj.AssemblyReference.cache

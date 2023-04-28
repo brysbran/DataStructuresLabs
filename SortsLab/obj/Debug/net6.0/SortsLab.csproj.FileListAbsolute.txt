@@ -1,0 +1,15 @@
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/SortsLab/bin/Debug/net6.0/SortsLab
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/SortsLab/bin/Debug/net6.0/SortsLab.deps.json
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/SortsLab/bin/Debug/net6.0/SortsLab.runtimeconfig.json
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/SortsLab/bin/Debug/net6.0/SortsLab.dll
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/SortsLab/bin/Debug/net6.0/ref/SortsLab.dll
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/SortsLab/bin/Debug/net6.0/SortsLab.pdb
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/SortsLab/obj/Debug/net6.0/SortsLab.csproj.AssemblyReference.cache
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/SortsLab/obj/Debug/net6.0/SortsLab.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/SortsLab/obj/Debug/net6.0/SortsLab.AssemblyInfoInputs.cache
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/SortsLab/obj/Debug/net6.0/SortsLab.AssemblyInfo.cs
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/SortsLab/obj/Debug/net6.0/SortsLab.csproj.CoreCompileInputs.cache
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/SortsLab/obj/Debug/net6.0/SortsLab.dll
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/SortsLab/obj/Debug/net6.0/ref/SortsLab.dll
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/SortsLab/obj/Debug/net6.0/SortsLab.pdb
+/Volumes/BCBDRIVE/ETSU_Spring_22/DataStructures/Labs/SortsLab/obj/Debug/net6.0/SortsLab.genruntimeconfig.cache
